@@ -1,2 +1,3 @@
 # HD_Template
-FiveM Resource Template
+
+ The Template for all Hakko Development Resources
